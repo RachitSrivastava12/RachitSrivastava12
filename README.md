@@ -22,7 +22,7 @@ I'm an aspiring web3 developer from India, skilled in MERN stack, Rust, PostgreS
 ![](https://github-contributor-stats.vercel.app/api?username=RachitSrivastava12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fevents%2Fweb3%2Fphotos&psig=AOvVaw0SmaBu-gedrggKrTJtj3av&ust=1714968576953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi-lfrR9YUDFQAAAAAdAAAAABAE'/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RachitSrivastava12&icon=0&color=0)](https://visitcount.itsvg.in)
