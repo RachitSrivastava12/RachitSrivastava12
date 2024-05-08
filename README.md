@@ -1,34 +1,50 @@
-# 💫 About Me:
-I'm an aspiring web3 developer from India, skilled in MERN stack, Rust, PostgreSQL and now exploring Solana. My goal is to build innovative decentralized apps with real-world impact. I'm passionate to learn about open source and want to actively contribute to web3 projects. By learning from global communities and experienced mentors, I aim to embrace open source philosophies.<br>I aspire to make web3 education more accessible, conducting workshops and creating learning resources in India. My vision is to foster a thriving web3 community here that produces global pioneers. As an active participant, I hope to inspire more Indian developers to fearlessly explore this space. Through open source contributions and community building, I want to drive positive change with decentralized technologies.
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Rachit Srivastava</h1>
+<h3 align="center">Kap10</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ravhit.dhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rachit-srivastava-62145b210/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rachit_twts) 
+![GitHub Views](https://komarev.com/ghpvc/?username=Kaap10&color=0e75b6)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RachitSrivastava12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RachitSrivastava12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSrivastava12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">👋 About Me</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RachitSrivastava12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- DSA With JAVA
+- Learning Web3 Development
+- Campus Maven @Risein
+- 📫 How to reach me: [Rachit Srivastava](https://www.linkedin.com/in/rachit-srivastava-62145b210/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RachitSrivastava12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="left">🙎‍♂️ Experience</h2>
 
-### 😂 Random Dev Meme
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fevents%2Fweb3%2Fphotos&psig=AOvVaw0SmaBu-gedrggKrTJtj3av&ust=1714968576953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi-lfrR9YUDFQAAAAAdAAAAABAE'/>
+- Campus Maven @Risein
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
-[![](https://visitcount.itsvg.in/api?id=RachitSrivastava12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Racsri) 
+<h2>⚙️ Projects  </h2>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|
+| BLACKBOARD| [Code](https://github.com/RachitSrivastava12/WHITEBOARD) | ```HTML``` ```CSS``` | [Preview]) | Feb 24 |
+| COURSES (ADMIN VIEW) | [Code](https://github.com/RachitSrivastava12/COURSE-SELLING-APP) | ```HTML``` ```CSS``` | [Preview]| March 24 |
+|TODO APP| [Code](https://github.com/RachitSrivastava12/Todo-App) | ```HTML``` ```CSS``` | [Preview] | March 24 |
+
+
+<br>
+<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+
+
+| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://www.linkedin.com/in/rachit-srivastava-62145b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/RachitSrivastava12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/23664940/vardhman-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/rachit.dhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/Rachit_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/maity.amit.200https://www.facebook.com/Vintage.Kap10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
+   
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+## 📊 GitHub Stats
+| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=Kaap10&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaap10&theme=highcontrast&hide_border=false)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaap10&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kaap10&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+[![Vardhman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaap10&theme=chartreuse-dark)](https://github.com/Kaap10/github-readme-activity-graph)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
