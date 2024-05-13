@@ -42,9 +42,9 @@
 
 
 ## 📊 GitHub Stats
-| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=Kaap10&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaap10&theme=highcontrast&hide_border=false)                                                                                                           |
+| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=RachitSrivastava12&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RachitSrivastava12&theme=highcontrast&hide_border=false)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSrivastava12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RachitSrivastava12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-[![Vardhman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RachitSrivastava12&theme=chartreuse-dark)](https://github.com/RachitSrivastava12/github-readme-activity-graph)
+[![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RachitSrivastava12&theme=chartreuse-dark)](https://github.com/RachitSrivastava12/github-readme-activity-graph)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
