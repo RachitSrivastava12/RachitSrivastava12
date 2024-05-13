@@ -24,10 +24,10 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
-| BLACKBOARD| [Code](https://github.com/RachitSrivastava12/WHITEBOARD) | ```HTML``` ```CSS``` | [Preview]) | Feb 24 |
-| COURSES (ADMIN VIEW) | [Code](https://github.com/RachitSrivastava12/COURSE-SELLING-APP) | ```HTML``` ```CSS``` | [Preview]| March 24 |
-|TODO APP| [Code](https://github.com/RachitSrivastava12/Todo-App) | ```HTML``` ```CSS``` | [Preview] | March 24 |
-
+| BLACKBOARD| [Code](https://github.com/RachitSrivastava12/WHITEBOARD) | ```MERN```| [Preview]) | APRIL 24|
+| COURSES (ADMIN VIEW) | [Code](https://github.com/RachitSrivastava12/COURSE-SELLING-APP) | ```MERN``` | [Preview]| DECEMBER 23 |
+|TODO APP| [Code](https://github.com/RachitSrivastava12/Todo-App) | ```MERN``` | [Preview] | NOVEMBER 23 |
+|STELLER TRANSACTION| .[Code](https://github.com/RachitSrivastava12/StellerSoroBAN) |```MERN``` ```RUST```| .[Preview] |MAY 24|
 
 <br>
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
