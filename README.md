@@ -7,10 +7,10 @@
 
 <h2 align="left">👋 About Me</h2>
 
-- DSA With JAVA
+- Full Stack Web Developer
 - Learning Web3 Development
 - Campus Maven @Risein
-- 📫 How to reach me: [Rachit Srivastava](https://www.linkedin.com/in/rachit-srivastava-62145b210/)
+- 📫 How to reach me: [Rachit Srivastava](https://portfolio-b1dv.vercel.app/)
 
 
 <h2 align="left">🙎‍♂️ Experience</h2>
@@ -24,7 +24,7 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
-| BLACKBOARD| [Code](https://github.com/RachitSrivastava12/WHITEBOARD) | ```MERN```| [Preview]) | APRIL 24|
+| Whiteboard| [Code](https://github.com/RachitSrivastava12/BNGYA) | ```MERN```| [Preview]) | APRIL 24|
 | COURSES (ADMIN VIEW) | [Code](https://github.com/RachitSrivastava12/COURSE-SELLING-APP) | ```MERN``` | [Preview]| DECEMBER 23 |
 |TODO APP| [Code](https://github.com/RachitSrivastava12/Todo-App) | ```MERN``` | [Preview] | NOVEMBER 23 |
 |STELLER TRANSACTION| .[Code](https://github.com/RachitSrivastava12/StellerSoroBAN) |```MERN``` ```RUST```| .[Preview] |MAY 24|
