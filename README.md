@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
 <h3 align="center">A full stack developer finding peace in web3.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsrivastava12&label=Profile%20views&color=0e75b6&style=flat" alt="rachitsrivastava12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitsrivastava12" alt="rachitsrivastava12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rachit_twts" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_twts?logo=twitter&style=for-the-badge" alt="rachit_twts" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio Generator**
 
