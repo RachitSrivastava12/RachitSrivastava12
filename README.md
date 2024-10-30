@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Portfolio Generator**
 
-- 🌱 I’m currently learning **Solana and Ethereum development**
+- 🌱 I’m currently learning **Smart Contract Development**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
