@@ -14,11 +14,11 @@
 
 - 📝 Find my top projects [https://github.com/RachitSrivastava12](https://github.com/RachitSrivastava12)
 
-- 💬 Ask me about **anything frontend or backend**
+- 💬 Ask me about **anything frontend but mostly backend**
 
 - 📫 How to reach me **rachitsrivastava76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15TH50FxvjBDYIlHtXMahS9pxxpQnP1M5/view](https://drive.google.com/file/d/15TH50FxvjBDYIlHtXMahS9pxxpQnP1M5/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view](https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
