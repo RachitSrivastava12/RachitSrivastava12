@@ -10,7 +10,7 @@
 
 - 🤝 Build in public **on Twitter/X and Linkedin**
 
-- 👨‍💻 This is my portfolio [https://portfolio-b1dv.vercel.app/](https://portfolio-b1dv.vercel.app/)
+- 👨‍💻 This is my portfolio [https://devport-joz2.vercel.app/](https://devport-joz2.vercel.app/)
 
 - 📝 Find my top projects [https://github.com/RachitSrivastava12](https://github.com/RachitSrivastava12)
 
