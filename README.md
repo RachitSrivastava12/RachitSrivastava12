@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rachitsrivastava76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view](https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view](https://drive.google.com/file/d/1r_D7nwMBlwT5JQhToJjU0SO13D7FAG_O/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
