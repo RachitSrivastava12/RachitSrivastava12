@@ -71,20 +71,6 @@ Referral system for Depin protocols on Solana blockchain
 - **Tech**: Solana, Anchor Framework, React.js
 - **Features**: Smart contract integration, reward distribution
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitsrivastava12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=ffffff&icon_color=A23B72" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitsrivastava12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsrivastava12&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E86AB&ring=A23B72&fire=2E86AB&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
