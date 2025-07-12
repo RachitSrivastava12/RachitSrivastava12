@@ -19,12 +19,6 @@ I'm a passionate **Full Stack Developer** and **Web3 Enthusiast** currently purs
 - 🌐 Building in public on **Twitter/X** and **LinkedIn**
 - 💡 Always excited about **innovative DeFi solutions**
 
-## 🏆 Recent Achievements
-
-- 🥉 **3rd Place** - Pears Global Hackathon (Hyperswarm Category) - March 2025
-- 🎪 **Participant** - Hackaccino, Bennett University - 2024
-- 🚀 **Maven Ambassador** at RiseIn (Stellar & Aptos ecosystems)
-- 🌟 **Community Ambassador** at DecentraClasses
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +46,7 @@ I'm a passionate **Full Stack Developer** and **Web3 Enthusiast** currently purs
 
 ### **Tools & Technologies**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,firebase,aws" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" alt="Tools" />
 </p>
 
 ## 🌟 Featured Projects
