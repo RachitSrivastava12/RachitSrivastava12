@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Web3 Enthusiast** currently pursuing my Bachelor's in AI & ML. I find peace in building decentralized applications and exploring the endless possibilities of blockchain technology.
+I'm a passionate **Full Stack Developer** and **Web3 Enthusiast**. I find peace in building decentralized applications and exploring the endless possibilities of blockchain technology.
 
 ### 🎯 Current Focus
 - 🔭 Building **Depin Referral Systems** on Solana
